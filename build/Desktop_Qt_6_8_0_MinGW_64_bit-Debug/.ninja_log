@@ -1,0 +1,15 @@
+# ninja log v6
+9	1265	7507111616155568	TheImageInverter_autogen/timestamp	17c49970aab8aa04
+9	1265	7507111616155568	TheImageInverter_autogen/mocs_compilation.cpp	17c49970aab8aa04
+9	1265	7507111616155568	C:/Users/ahmed/hacking/TheImageInverter/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/TheImageInverter_autogen/timestamp	17c49970aab8aa04
+9	1265	7507111616155568	C:/Users/ahmed/hacking/TheImageInverter/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/TheImageInverter_autogen/mocs_compilation.cpp	17c49970aab8aa04
+1274	4686	7507111617229730	CMakeFiles/TheImageInverter.dir/TheImageInverter_autogen/mocs_compilation.cpp.obj	6607cd109d2a869c
+1278	4728	7507111617269745	CMakeFiles/TheImageInverter.dir/main.cpp.obj	a685c421e1c99840
+1282	5045	7507111617314342	CMakeFiles/TheImageInverter.dir/mainwindow.cpp.obj	3e8053842a5f76e1
+5046	5332	7507111654950447	TheImageInverter.exe	96b50eda8e445455
+17	221	7507112806103631	TheImageInverter_autogen/timestamp	17c49970aab8aa04
+17	221	7507112806103631	TheImageInverter_autogen/mocs_compilation.cpp	17c49970aab8aa04
+17	221	7507112806103631	C:/Users/ahmed/hacking/TheImageInverter/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/TheImageInverter_autogen/timestamp	17c49970aab8aa04
+17	221	7507112806103631	C:/Users/ahmed/hacking/TheImageInverter/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/TheImageInverter_autogen/mocs_compilation.cpp	17c49970aab8aa04
+222	3153	7507112808149546	CMakeFiles/TheImageInverter.dir/main.cpp.obj	a685c421e1c99840
+3153	3493	7507112837459967	TheImageInverter.exe	96b50eda8e445455
