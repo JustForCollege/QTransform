@@ -35,7 +35,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     centralWidget->setLayout(layout);
 
-    this->setWindowTitle("TheImageInverter");
+    this->setWindowTitle("QTransform");
     this->resize(WindowWidth, WindowHeight);
     this->setCentralWidget(centralWidget);
 }
