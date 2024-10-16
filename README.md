@@ -53,16 +53,16 @@ gray value is larger than or equal a specific threshold (I picked 127), I then s
 it can be described as follows: 
 
 ```
-	Load(Image)
+ Load(Image)
 
-	For pixel in Image.Pixels:
-		grayedPixel = GrayScale(pixel) 
-		if grayedPixel >= 127:
-			pixel = WHITE
-		else:
-			pixel = BLACK 
+ For pixel in Image.Pixels:
+	grayedPixel = GrayScale(pixel) 
+	if grayedPixel >= 127:
+		pixel = WHITE
+	else:
+		pixel = BLACK 
 	
-	Save(Image)
+ Save(Image)
 ```
 
 GrayScale Transformer: 
@@ -72,13 +72,13 @@ I have used QT6 `QImage::convertToFormat(QImage::Format_Grayscale8)` function to
 and it can be described as follows: 
 
 ```	
-	Load(Image)
+ Load(Image)
 	
-	For pixel in Image.Pixels:
-		grayedPixel = (pixel.red + pixel.green + pixel.blue) / 3 
-		pixel = grayedPixel
+ For pixel in Image.Pixels:
+	grayedPixel = (pixel.red + pixel.green + pixel.blue) / 3 
+	pixel = grayedPixel
 	
-	Save(Image)
+ Save(Image)
 ```
 
 Image Inverter:
