@@ -3,18 +3,20 @@
 A Simple app written with C++ and QT6, with straighforward UI, Just Drag & Drop your image and choose your desired tranformation.
 
 Supported Transformtions: 
-	- Black & White Transformer 
-	- Image Invert 
-	- GrayScale Transformer 
+
+- Black & White Transformer 
+- Image Invert 
+- GrayScale Transformer 
 
 Supported File Formats:
-	- PNG,
-	- JPEG
-	- BMP
+
+- PNG
+- JPEG
+- BMP
 
 # Demo:
 
-https://github.com/user-attachments/assets/1a28c3d4-fd48-4873-89f5-653f7357bb22
+https://github.com/user-attachments/assets/887e3d17-d6db-40ce-abba-d8934f7eb248
 
 # How To Use ? 
 
